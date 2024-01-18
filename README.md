@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fnursaray
+- Hi, I’m @fnursaray 🌸
 - I'm continuing the training to become a Frontend Developer and React Developer.
 - I'm learning HTML,HTML5,CSS,SCSS,JavaScript and React.
 
